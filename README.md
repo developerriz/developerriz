@@ -34,7 +34,7 @@ Beyond coding, I love exploring new technologies, contributing to open source pr
 ## 📊 GitHub Stats  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />  
+<img src="https://github-readme-stats.vercel.app/api?username=developerriz&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />  
 <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUserName&theme=tokyonight&hide_border=true" height="170px" />  
 </div>
 
