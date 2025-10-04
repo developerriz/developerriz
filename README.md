@@ -31,9 +31,6 @@ Beyond coding, I love exploring new technologies, contributing to open source pr
 
 ---
 
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
