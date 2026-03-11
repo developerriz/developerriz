@@ -15,7 +15,7 @@
 ## 🎨 About Me  
 
 I’m a passionate **Full Stack Developer** with a love for building modern, scalable, and intuitive web applications.  
-My journey started with curiosity — wondering how websites work — and turned into a mission to master the art of turning ideas into real-world solutions.  
+My journey started with curiosity wondering how websites work and turned into a mission to master the art of turning ideas into real-world solutions.  
 
 Specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, I focus on writing clean, maintainable code and creating engaging user experiences. I believe technology should not only solve problems but also inspire creativity and innovation.  
 
