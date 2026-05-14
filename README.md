@@ -47,6 +47,54 @@ Beyond coding, I love exploring new technologies, contributing to open source pr
 
 ---
 
+
+## 🚀 Featured Project  
+
+<h3 align="center">✨ PixoCut Studio – AI Background Remover</h3>
+
+<p align="center">
+  <a href="https://pixocut.toolsbyprabhat.com/" target="_blank">
+    <img 
+      src="https://drive.google.com/uc?export=view&id=1yKHG1CeE0drybdjFq5HkHBS-PH-Fbfht" 
+      alt="PixoCut Studio Preview" 
+      width="90%"
+      style="border-radius:16px;"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Remove image backgrounds instantly with AI ⚡</b>
+</p>
+
+<p align="center">
+  PixoCut Studio is a modern AI-powered background remover web app that allows users to upload images and get crystal-clear background removal in seconds. Built with a sleek UI, fast processing, and a seamless user experience.
+</p>
+
+---
+
+### 🔥 Features
+✅ AI-powered background removal  
+✅ Fast image processing  
+✅ High-quality transparent output  
+✅ Modern responsive UI  
+✅ Instant preview & download  
+✅ Smooth user experience  
+
+### 🛠 Built With
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,laravel,mysql" />
+</p>
+
+### 🌍 Live Demo
+<p>
+  <a href="https://pixocut.toolsbyprabhat.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Project-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px"/>
 </p>
